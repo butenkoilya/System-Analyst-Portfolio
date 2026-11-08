@@ -39,7 +39,7 @@
 - [Сертификаты](Сертификаты/)
 
 ### Технологии
-![](https://skillicons.dev/icons?i=postgres,postman,figma,git)
+![](https://skillicons.dev/icons?i=postgres, MY SQL, postman, figma, confluence)
 
 ## 🏢 Опыт
 **Инженер-стажёр**, АО «Концерн ВКО «Алмаз – Антей», 06.2025 – 07.2025
