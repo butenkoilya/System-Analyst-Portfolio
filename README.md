@@ -39,7 +39,11 @@
 - [Сертификаты](Сертификаты/)
 
 ### Технологии
-![](https://skillicons.dev/icons?i=postgres, MY SQL, postman, figma, confluence)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
 ## 🏢 Опыт
 **Инженер-стажёр**, АО «Концерн ВКО «Алмаз – Антей», 06.2025 – 07.2025
